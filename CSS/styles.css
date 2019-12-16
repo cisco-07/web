@@ -1,0 +1,169 @@
+body{
+  margin: 0;
+  text-align: center;
+  color: #018383;
+}
+h1{
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 80px;
+}
+p{
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #f4f4f4;
+  border-width: 5px;
+  width: 5%;
+}
+.top-container{
+  background-color: #E4F9F5;
+  height: 750px;
+
+}
+.cloud1{
+  height: 150px;
+  width: 150px;
+  position: absolute;
+  right: 120px;
+  top: 150px;
+}
+.cloud2{
+  height: 150px;
+  width: 150px;
+  position: absolute;
+  left: 100px;
+  top: 280px;
+}
+.design{
+  text-decoration: underline;
+}
+.main{
+  position: absolute;
+  right: 200px;
+  top: 450px;
+}
+.heading1{
+  position: relative;
+  top: 170px;
+}
+.heading2{
+  position: relative;
+  top: 170px;
+}
+.image{
+  position: relative;
+  height: 150px;
+  top: 100px;
+}
+.profile{
+  height: 500px;
+}
+.middle-container-h{
+  position: relative;
+  top: 120px;
+  color: #02a8a8;
+}
+.middle-container-p{
+  position: relative;
+  top: 120px;
+  width: 30%;
+  margin: 0 auto;
+  color: #5d5d5d;
+}
+.skills{
+  padding: 100px;
+}
+.skills-image{
+  position: relative;
+  right: 300px;
+  top: 150px;
+  height: 150px;
+}
+.middle-container-p-skills{
+  position: relative;
+
+  left: 100px;
+  bottom: 30px;
+  width: 30%;
+  margin: 0 auto;
+  color: #5d5d5d;
+  text-align: left;
+}
+.middle-container-h-skills{
+  text-align: left;
+  position: relative;
+  width: 50%;
+  margin: 0 auto;
+  left: 200px;
+  bottom: 40px;
+  font-size: 40px;
+  padding: 15px;
+  font-family: 'Exo 2', sans-serif;
+  color: #4baea0;
+}
+.skill{
+  position: relative;
+  width: 50%;
+  margin: 0 auto;
+  font-size: 50px;
+  font-family: 'Lakki Reddy', cursive;
+}
+.contact-me{
+  padding-top: 50px;
+}
+.contact-me-h2{
+  font-size: 35px;
+  padding-bottom: 10px;
+  font-family: 'Patrick Hand', cursive;
+}
+.contact-me-h3{
+  font-size: 25px;
+  color: #4baea0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: 'Lobster Two', cursive;
+}
+.contact-me-p{
+  width: 60%;
+  margin: 0 auto;
+  padding-bottom: 70px;
+  padding-top: 10px;
+}
+.btn{
+  background: #4baea0;
+  color: #1b7f69;
+  padding: 20px;
+  margin: 40px;
+}
+.bottom-container{
+  padding-top: 30px;
+  background-color: #E4F9F5;
+  margin-top: 100px;
+  padding-bottom: 20px;
+}
+.footer-link1{
+  margin-right: 50px;
+  color: #1b7f69;
+  font-family: 'Nova Mono', monospace;
+}
+.footer-link2{
+  margin-right: 50px;
+  margin-left: 50px;
+  color: #1b7f69;
+  font-family: 'Nova Mono', monospace;
+}
+.footer-link3{
+  margin-left: 50px;
+  color: #1b7f69;
+  font-family: 'Nova Mono', monospace;
+}
+.bottom-container-p{
+  margin-top: 55px;
+  font-size: 25px;
+  font-family: 'Sacramento', cursive;
+
+}
